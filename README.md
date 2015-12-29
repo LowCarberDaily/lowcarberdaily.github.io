@@ -1,4 +1,4 @@
-# lowcarberdaily.github.io
+# Welcome
 This will be the future home of the resources found in the Launch Pad of the group, which is currently private. We don't like the idea that the information we've gathered is available only to members of a particular group on a particular site. MyFitnessPal's forums aren't the most usable for banks of knowledge such as this, anyway.
 
 # Contribution
